@@ -1,0 +1,358 @@
+{
+  "seed": 42,
+  "window_start": "2026-09-23T00:00:00+00:00",
+  "window_end": "2026-09-24T00:00:00+00:00",
+  "scenarios": {
+    "insider_theft_001": [
+      {
+        "timestamp": "2026-09-23T20:52:29.020222+00:00",
+        "source": "windows",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:52:32.817713+00:00",
+        "source": "okta-system",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:52:33.834228+00:00",
+        "source": "okta-system",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:52:37.935204+00:00",
+        "source": "duo-auth",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:53:08.880968+00:00",
+        "source": "windows",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:53:48.181178+00:00",
+        "source": "windows",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:54:09.075581+00:00",
+        "source": "windows",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:54:48.486817+00:00",
+        "source": "windows",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:55:39.268619+00:00",
+        "source": "windows",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:56:33.347239+00:00",
+        "source": "dns",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:56:38.374576+00:00",
+        "source": "windows",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:56:38.374576+00:00",
+        "source": "netflow",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:56:38.374576+00:00",
+        "source": "netflow",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:57:24.567748+00:00",
+        "source": "dns",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:57:31.738263+00:00",
+        "source": "windows",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:57:31.738263+00:00",
+        "source": "netflow",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:57:31.738263+00:00",
+        "source": "netflow",
+        "username": "powen"
+      },
+      {
+        "timestamp": "2026-09-23T20:59:11.197613+00:00",
+        "source": "windows",
+        "username": "powen"
+      }
+    ],
+    "malicious_link_001": [
+      {
+        "timestamp": "2026-09-23T10:14:54.050735+00:00",
+        "source": "windows",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:15:07.989285+00:00",
+        "source": "windows",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:38:40.344447+00:00",
+        "source": "dns",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:38:42.275099+00:00",
+        "source": "windows",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:38:42.275099+00:00",
+        "source": "netflow",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:38:42.275099+00:00",
+        "source": "netflow",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:38:48.895430+00:00",
+        "source": "windows",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:39:03.414373+00:00",
+        "source": "windows",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:39:32.848184+00:00",
+        "source": "dns",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:39:35.999418+00:00",
+        "source": "windows",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:39:35.999418+00:00",
+        "source": "netflow",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:39:35.999418+00:00",
+        "source": "netflow",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:43:34.309143+00:00",
+        "source": "dns",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:43:36.821792+00:00",
+        "source": "windows",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:43:36.821792+00:00",
+        "source": "netflow",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:43:36.821792+00:00",
+        "source": "netflow",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:46:36.083110+00:00",
+        "source": "dns",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:46:38.644483+00:00",
+        "source": "windows",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:46:38.644483+00:00",
+        "source": "netflow",
+        "username": "amendez"
+      },
+      {
+        "timestamp": "2026-09-23T10:46:38.644483+00:00",
+        "source": "netflow",
+        "username": "amendez"
+      }
+    ],
+    "account_attack_001": [
+      {
+        "timestamp": "2026-09-23T14:10:06.581132+00:00",
+        "source": "okta-system",
+        "username": "tbanks"
+      },
+      {
+        "timestamp": "2026-09-23T14:10:06.581132+00:00",
+        "source": "windows",
+        "username": "tbanks"
+      },
+      {
+        "timestamp": "2026-09-23T14:10:09.665493+00:00",
+        "source": "okta-system",
+        "username": "mparker"
+      },
+      {
+        "timestamp": "2026-09-23T14:10:09.665493+00:00",
+        "source": "windows",
+        "username": "mparker"
+      },
+      {
+        "timestamp": "2026-09-23T14:10:16.860832+00:00",
+        "source": "okta-system",
+        "username": "ltran"
+      },
+      {
+        "timestamp": "2026-09-23T14:10:16.860832+00:00",
+        "source": "windows",
+        "username": "ltran"
+      },
+      {
+        "timestamp": "2026-09-23T14:10:22.898609+00:00",
+        "source": "okta-system",
+        "username": "smccoy"
+      },
+      {
+        "timestamp": "2026-09-23T14:10:22.898609+00:00",
+        "source": "windows",
+        "username": "smccoy"
+      },
+      {
+        "timestamp": "2026-09-23T14:10:27.815884+00:00",
+        "source": "okta-system",
+        "username": "nsmith"
+      },
+      {
+        "timestamp": "2026-09-23T14:10:27.815884+00:00",
+        "source": "windows",
+        "username": "nsmith"
+      },
+      {
+        "timestamp": "2026-09-23T14:10:32.640726+00:00",
+        "source": "okta-system",
+        "username": "cmiller"
+      },
+      {
+        "timestamp": "2026-09-23T14:10:32.640726+00:00",
+        "source": "windows",
+        "username": "cmiller"
+      },
+      {
+        "timestamp": "2026-09-23T14:10:38.201879+00:00",
+        "source": "okta-system",
+        "username": "lprice"
+      },
+      {
+        "timestamp": "2026-09-23T14:10:38.201879+00:00",
+        "source": "windows",
+        "username": "lprice"
+      },
+      {
+        "timestamp": "2026-09-23T14:10:41.460085+00:00",
+        "source": "okta-system",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:10:41.460085+00:00",
+        "source": "windows",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:11:00.208815+00:00",
+        "source": "duo-auth",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:11:36.609184+00:00",
+        "source": "duo-auth",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:11:45.526748+00:00",
+        "source": "okta-system",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:12:35.039929+00:00",
+        "source": "windows",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:12:49.110028+00:00",
+        "source": "dns",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:12:49.110028+00:00",
+        "source": "netflow",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:12:49.110028+00:00",
+        "source": "netflow",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:14:13.350823+00:00",
+        "source": "windows",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:14:18.669097+00:00",
+        "source": "okta-system",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:14:21.066767+00:00",
+        "source": "okta-system",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:14:26.500747+00:00",
+        "source": "windows",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:15:17.134182+00:00",
+        "source": "duo-admin",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:16:27.921051+00:00",
+        "source": "cloudtrail",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:16:51.640453+00:00",
+        "source": "cloudtrail",
+        "username": "llove"
+      },
+      {
+        "timestamp": "2026-09-23T14:17:00.268000+00:00",
+        "source": "cloudtrail",
+        "username": "llove"
+      }
+    ]
+  }
+}
